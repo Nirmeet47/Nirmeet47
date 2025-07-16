@@ -10,15 +10,10 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **building a full-stack app with Next.js, Supabase, and Tailwind CSS.**
-
 - 🌱 I’m currently learning **advanced backend development, advanced database system concepts, and scalable full-stack architecture.**
-
 - 👯 I’m looking to collaborate on **Family Doc — a full-stack web app for secure document storage and sharing.**
-
 - 💬 Ask me about **MERN stack, Next.js, Supabase, DBMS, and DSA.**
-
 - 👨‍💻 All of my projects are available at [nirmeet21.vercel.app](https://nirmeet21.vercel.app)
-
 - 📫 Reach me at: **nirmeetparmar21@gmail.com**
 
 ---
@@ -61,14 +56,10 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nirmeet47&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmeet47&theme=github-dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmeet47&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" />
 </p>
 
